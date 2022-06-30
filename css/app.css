@@ -104,4 +104,5 @@ nav ul li a:hover:after{
     color: #757575;
     margin-top: 25px;
     margin-bottom: 30px;
+    width: 100%;
 }
