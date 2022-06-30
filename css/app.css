@@ -100,9 +100,8 @@ nav ul li a:hover:after{
     width: 100%;
 }
 .content p{
-    width: 55%;
+    width: 100%;
     color: #757575;
     margin-top: 25px;
     margin-bottom: 30px;
-    width: 100%;
 }
