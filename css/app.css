@@ -91,12 +91,12 @@ nav ul li a:hover:after{
     font-weight: 900;
     line-height: 55px;
     text-transform: inherit;
-    width: 90%;
+    width: 100%;
 }
 .content h1 span{
     /* color: #fd4766; */
     color: #12093e;
-    font-size: 50px;
+    font-size: 40px;
     width: 100%;
 }
 .content p{
