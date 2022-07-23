@@ -81,3 +81,9 @@ nav ul li a:hover{
     margin-bottom: 30px;
     font-size: 20px;
 }
+
+
+#myimage{
+    width: 20%;
+    border-radius: 140px;
+}
